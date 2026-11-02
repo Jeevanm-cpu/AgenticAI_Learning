@@ -3,7 +3,7 @@ import time
 import json
 
 from dotenv import load_dotenv #.env
-from google import genai
+from google import genai      #genai
 from google.genai import types 
 
 load_dotenv()
